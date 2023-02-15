@@ -1,4 +1,4 @@
 
-# Development of prototype for Self powered wirless strain sensor network for montoring the health of a structure.
+## Development of prototype for Self powered wirless strain sensor network for montoring the health of a structure.
 A precision strain sensor is place on cantilever beam and integrated with ESP32 for monitoring strain gauge signals.This exhibits the feasibility for large structural strain monitoring with the help of WSSN. With LTC3588 piezoelectric energy harvester even with low frequency and high output voltage is obtained, which makes self-powered energy management circuits makes more efficient and more reliable energy harvester.The main objective is to detect the unstable vibrations with different loads, optimize the output voltage and maximize the output power of the piezoelectric transducer.An Embedded solution is formed by integration of energy harvesting circuit with the WSSN in order to improve Structural Health Monitoring.
 
